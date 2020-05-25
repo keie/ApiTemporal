@@ -1,0 +1,131 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1a25a4a0_002D7891_002D455a_002D8aba_002D3930b847dd49/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="PostInsertGradeuccessFully #2" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.GradeControllerTest.PostInsertGradeuccessFully&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20ea5acd_002D772a_002D45f6_002Da7e4_002D462de861754e/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="PostInsertSizeValueSuccessFully" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;Or&gt;
+    &lt;Or&gt;
+      &lt;Or&gt;
+        &lt;Or&gt;
+          &lt;Or&gt;
+            &lt;Or&gt;
+              &lt;TestAncestor&gt;
+                &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.SizeValueControllerTest&lt;/TestId&gt;
+              &lt;/TestAncestor&gt;
+              &lt;TestAncestor&gt;
+                &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.KgValuesControllerTest&lt;/TestId&gt;
+              &lt;/TestAncestor&gt;
+            &lt;/Or&gt;
+            &lt;TestAncestor&gt;
+              &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.PersonalReferenceControllerTest&lt;/TestId&gt;
+            &lt;/TestAncestor&gt;
+          &lt;/Or&gt;
+          &lt;TestAncestor&gt;
+            &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.UserControllerTest&lt;/TestId&gt;
+          &lt;/TestAncestor&gt;
+        &lt;/Or&gt;
+        &lt;TestAncestor&gt;
+          &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.StatusNutritionPersonTest.GetStatusNutritionPersonListSuccessfully&lt;/TestId&gt;
+        &lt;/TestAncestor&gt;
+      &lt;/Or&gt;
+      &lt;TestAncestor&gt;
+        &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.StatusNutritionGeneralControllerTest.GetStatusNutritionGeneralListSuccessfully&lt;/TestId&gt;
+      &lt;/TestAncestor&gt;
+    &lt;/Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.GradeControllerTest.GetListGradrSucessfully&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=449dd748_002D7a5d_002D4acf_002Dbbb5_002D1a4b3f36037a/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="PostInsertGradeuccessFully" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.GradeControllerTest.PostInsertGradeuccessFully&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4afed95b_002D7491_002D4e1e_002Dbc36_002D4fd455a7e2e3/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="GetListKgValuesSuccessFully #2" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.KgValuesControllerTest.GetListKgValuesSuccessFully&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=50bf51e3_002D9551_002D4aef_002D82a7_002D88af22936bb7/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="PostInsertPersonPersonalReferenceSuccessFully" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;Or&gt;
+    &lt;Or&gt;
+      &lt;Or&gt;
+        &lt;Or&gt;
+          &lt;TestAncestor&gt;
+            &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.PersonalReferenceControllerTest.PostInsertPersonPersonalReferenceSuccessFully&lt;/TestId&gt;
+          &lt;/TestAncestor&gt;
+          &lt;TestAncestor&gt;
+            &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.PersonalReferenceControllerTest.GetPersonalReferenceListSuccessfully&lt;/TestId&gt;
+          &lt;/TestAncestor&gt;
+        &lt;/Or&gt;
+        &lt;TestAncestor&gt;
+          &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.PersonalReferenceControllerTest.GetPersonalReferenceByIdSuccessfully&lt;/TestId&gt;
+        &lt;/TestAncestor&gt;
+      &lt;/Or&gt;
+      &lt;TestAncestor&gt;
+        &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.PersonalReferenceControllerTest.PutModPersonPersonalReferenceSuccessFully&lt;/TestId&gt;
+      &lt;/TestAncestor&gt;
+    &lt;/Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.UserControllerTest&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5c1cb33f_002D5891_002D4241_002D949e_002D8a73f5ac9acc/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="GetResponseMethodGetAllShouldBeOk" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::IntegrationTest.UserControllerTest.GetResponseMethodGetAllShouldBeOk&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6009e533_002Dfcfd_002D48d8_002D83ed_002D47fd7b30c485/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="PutModPersonPersonalReferenceSuccessFully" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.PersonalReferenceControllerTest&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.UserControllerTest&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8a80bd3b_002D80b2_002D439a_002Da197_002D604ebe207858/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="PostInsertStatusNutritionGeneralSuccessFully" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.UserControllerTest.PostInsertStatusNutritionGeneralSuccessFully&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ca7072f8_002Df38a_002D4d38_002Da80b_002Db2d824bde0c6/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="PutModPersonPersonalReferenceSuccessFully #2" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;Or&gt;
+    &lt;Or&gt;
+      &lt;Or&gt;
+        &lt;Or&gt;
+          &lt;Or&gt;
+            &lt;TestAncestor&gt;
+              &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.PersonalReferenceControllerTest.PutModPersonPersonalReferenceSuccessFully&lt;/TestId&gt;
+            &lt;/TestAncestor&gt;
+            &lt;TestAncestor&gt;
+              &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.KgValuesControllerTest.GetListKgValuesSuccessFully&lt;/TestId&gt;
+            &lt;/TestAncestor&gt;
+          &lt;/Or&gt;
+          &lt;TestAncestor&gt;
+            &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.KgValuesControllerTest&lt;/TestId&gt;
+          &lt;/TestAncestor&gt;
+        &lt;/Or&gt;
+        &lt;TestAncestor&gt;
+          &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.SizeValueControllerTest.GetListSizeValueSuccessFully&lt;/TestId&gt;
+        &lt;/TestAncestor&gt;
+      &lt;/Or&gt;
+      &lt;TestAncestor&gt;
+        &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.SizeValueControllerTest.GetByIdSizeValueSuccessFully&lt;/TestId&gt;
+      &lt;/TestAncestor&gt;
+    &lt;/Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;MSTest::F534F044-E07B-4485-A5AC-0147B4A4A106::.NETCoreApp,Version=v3.1::Test.IntegrationTest.SizeValueControllerTest.PostInsertSizeValueSuccessFully&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	</wpf:ResourceDictionary>

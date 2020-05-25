@@ -1,0 +1,117 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/kev/Desktop/ApiTemporal/Test/Test.csproj",
+    "projectName": "Test",
+    "projectPath": "/home/kev/Desktop/ApiTemporal/Test/Test.csproj",
+    "outputPath": "/home/kev/Desktop/ApiTemporal/Test/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/home/kev/Desktop/ApiTemporal/ApiBussinessLogic/ApiBussinessLogic.csproj": {
+            "projectPath": "/home/kev/Desktop/ApiTemporal/ApiBussinessLogic/ApiBussinessLogic.csproj"
+          },
+          "/home/kev/Desktop/ApiTemporal/ApiCore/ApiCore.csproj": {
+            "projectPath": "/home/kev/Desktop/ApiTemporal/ApiCore/ApiCore.csproj"
+          },
+          "/home/kev/Desktop/ApiTemporal/ApiDataAccess/ApiDataAccess.csproj": {
+            "projectPath": "/home/kev/Desktop/ApiTemporal/ApiDataAccess/ApiDataAccess.csproj"
+          },
+          "/home/kev/Desktop/ApiTemporal/ApiUnitWork/ApiUnitWork.csproj": {
+            "projectPath": "/home/kev/Desktop/ApiTemporal/ApiUnitWork/ApiUnitWork.csproj"
+          },
+          "/home/kev/Desktop/ApiTemporal/JWT/JWT.csproj": {
+            "projectPath": "/home/kev/Desktop/ApiTemporal/JWT/JWT.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "AutoFixture": {
+          "target": "Package",
+          "version": "[4.11.0, )"
+        },
+        "FluentAssertions": {
+          "target": "Package",
+          "version": "[5.10.3, )"
+        },
+        "MSTest.TestAdapter": {
+          "target": "Package",
+          "version": "[2.1.0, )"
+        },
+        "MSTest.TestFramework": {
+          "target": "Package",
+          "version": "[2.1.0, )"
+        },
+        "Microsoft.AspNetCore.TestHost": {
+          "target": "Package",
+          "version": "[3.0.0, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.5.0, )"
+        },
+        "Microsoft.NETCore.TestHost": {
+          "target": "Package",
+          "version": "[5.0.0-preview.3.20214.6, )"
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.14.1, )"
+        },
+        "coverlet.collector": {
+          "target": "Package",
+          "version": "[1.2.0, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "downloadDependencies": [
+        {
+          "name": "Microsoft.AspNetCore.App.Ref",
+          "version": "[3.1.2, 3.1.2]"
+        }
+      ],
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+    }
+  }
+}

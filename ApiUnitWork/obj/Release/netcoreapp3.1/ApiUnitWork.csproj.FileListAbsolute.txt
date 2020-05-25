@@ -1,0 +1,14 @@
+/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/bin/Release/netcoreapp3.1/ApiUnitWork.deps.json
+/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/bin/Release/netcoreapp3.1/ApiUnitWork.dll
+/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/bin/Release/netcoreapp3.1/ApiUnitWork.pdb
+/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/bin/Release/netcoreapp3.1/ApiModel.dll
+/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/bin/Release/netcoreapp3.1/ApiRepositories.dll
+/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/bin/Release/netcoreapp3.1/ApiRepositories.pdb
+/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/bin/Release/netcoreapp3.1/ApiModel.pdb
+/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/obj/Release/netcoreapp3.1/ApiUnitWork.csprojAssemblyReference.cache
+/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/obj/Release/netcoreapp3.1/ApiUnitWork.csproj.CoreCompileInputs.cache
+/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/obj/Release/netcoreapp3.1/ApiUnitWork.AssemblyInfoInputs.cache
+/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/obj/Release/netcoreapp3.1/ApiUnitWork.AssemblyInfo.cs
+/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/obj/Release/netcoreapp3.1/ApiUnitWork.csproj.CopyComplete
+/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/obj/Release/netcoreapp3.1/ApiUnitWork.dll
+/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/obj/Release/netcoreapp3.1/ApiUnitWork.pdb

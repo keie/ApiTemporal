@@ -1,0 +1,747 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kev/Desktop/NUTRITION_SERVICE/UnitTests/UnitTests.csproj": {}
+  },
+  "projects": {
+    "/home/kev/Desktop/NUTRITION_SERVICE/ApiBussinessLogic/ApiBussinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kev/Desktop/NUTRITION_SERVICE/ApiBussinessLogic/ApiBussinessLogic.csproj",
+        "projectName": "ApiBussinessLogic",
+        "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiBussinessLogic/ApiBussinessLogic.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiBussinessLogic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiModel/ApiModel.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiModel/ApiModel.csproj"
+              },
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/ApiUnitWork.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/ApiUnitWork.csproj"
+              },
+              "/home/kev/Desktop/NUTRITION_SERVICE/JWT/JWT.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/JWT/JWT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kev/Desktop/NUTRITION_SERVICE/ApiCore/ApiCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kev/Desktop/NUTRITION_SERVICE/ApiCore/ApiCore.csproj",
+        "projectName": "ApiCore",
+        "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiCore/ApiCore.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiBussinessLogic/ApiBussinessLogic.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiBussinessLogic/ApiBussinessLogic.csproj"
+              },
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiDataAccess/ApiDataAccess.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiDataAccess/ApiDataAccess.csproj"
+              },
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/ApiUnitWork.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/ApiUnitWork.csproj"
+              },
+              "/home/kev/Desktop/NUTRITION_SERVICE/Encryption/Encryption.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/Encryption/Encryption.csproj"
+              },
+              "/home/kev/Desktop/NUTRITION_SERVICE/JWT/JWT.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/JWT/JWT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "Microsoft.IdentityModel.Logging": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            },
+            "System.IO.Compression": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.Reflection": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.Cng": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Text.Encoding": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kev/Desktop/NUTRITION_SERVICE/ApiDataAccess/ApiDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kev/Desktop/NUTRITION_SERVICE/ApiDataAccess/ApiDataAccess.csproj",
+        "projectName": "ApiDataAccess",
+        "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiDataAccess/ApiDataAccess.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiDataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/ApiRepositories.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/ApiRepositories.csproj"
+              },
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/ApiUnitWork.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/ApiUnitWork.csproj"
+              },
+              "/home/kev/Desktop/NUTRITION_SERVICE/Encryption/Encryption.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/Encryption/Encryption.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kev/Desktop/NUTRITION_SERVICE/ApiModel/ApiModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kev/Desktop/NUTRITION_SERVICE/ApiModel/ApiModel.csproj",
+        "projectName": "ApiModel",
+        "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiModel/ApiModel.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiModel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "LinqKit": {
+              "target": "Package",
+              "version": "[1.1.17, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/ApiRepositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/ApiRepositories.csproj",
+        "projectName": "ApiRepositories",
+        "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/ApiRepositories.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiModel/ApiModel.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiModel/ApiModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/ApiUnitWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/ApiUnitWork.csproj",
+        "projectName": "ApiUnitWork",
+        "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/ApiUnitWork.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/ApiRepositories.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/ApiRepositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kev/Desktop/NUTRITION_SERVICE/Encryption/Encryption.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kev/Desktop/NUTRITION_SERVICE/Encryption/Encryption.csproj",
+        "projectName": "Encryption",
+        "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/Encryption/Encryption.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/kev/Desktop/NUTRITION_SERVICE/Encryption/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/kev/Desktop/NUTRITION_SERVICE/Settings/Settings.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/Settings/Settings.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kev/Desktop/NUTRITION_SERVICE/JWT/JWT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kev/Desktop/NUTRITION_SERVICE/JWT/JWT.csproj",
+        "projectName": "JWT",
+        "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/JWT/JWT.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/kev/Desktop/NUTRITION_SERVICE/JWT/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiModel/ApiModel.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiModel/ApiModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "Microsoft.IdentityModel.Logging": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            },
+            "System.IO.Compression": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.Reflection": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.Cng": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Text.Encoding": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kev/Desktop/NUTRITION_SERVICE/Settings/Settings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kev/Desktop/NUTRITION_SERVICE/Settings/Settings.csproj",
+        "projectName": "Settings",
+        "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/Settings/Settings.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/kev/Desktop/NUTRITION_SERVICE/Settings/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kev/Desktop/NUTRITION_SERVICE/UnitTests/UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kev/Desktop/NUTRITION_SERVICE/UnitTests/UnitTests.csproj",
+        "projectName": "UnitTests",
+        "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/UnitTests/UnitTests.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/kev/Desktop/NUTRITION_SERVICE/UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiBussinessLogic/ApiBussinessLogic.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiBussinessLogic/ApiBussinessLogic.csproj"
+              },
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiCore/ApiCore.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiCore/ApiCore.csproj"
+              },
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiDataAccess/ApiDataAccess.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiDataAccess/ApiDataAccess.csproj"
+              },
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiModel/ApiModel.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiModel/ApiModel.csproj"
+              },
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/ApiRepositories.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/ApiRepositories.csproj"
+              },
+              "/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/ApiUnitWork.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/ApiUnitWork/ApiUnitWork.csproj"
+              },
+              "/home/kev/Desktop/NUTRITION_SERVICE/Encryption/Encryption.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/Encryption/Encryption.csproj"
+              },
+              "/home/kev/Desktop/NUTRITION_SERVICE/JWT/JWT.csproj": {
+                "projectPath": "/home/kev/Desktop/NUTRITION_SERVICE/JWT/JWT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

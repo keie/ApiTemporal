@@ -1,0 +1,9 @@
+/home/kev/Desktop/NUTRITION_SERVICE/Settings/bin/debug/netcoreapp3.1/Settings.deps.json
+/home/kev/Desktop/NUTRITION_SERVICE/Settings/bin/debug/netcoreapp3.1/Settings.dll
+/home/kev/Desktop/NUTRITION_SERVICE/Settings/bin/debug/netcoreapp3.1/Settings.pdb
+/home/kev/Desktop/NUTRITION_SERVICE/Settings/obj/debug/netcoreapp3.1/Settings.csprojAssemblyReference.cache
+/home/kev/Desktop/NUTRITION_SERVICE/Settings/obj/debug/netcoreapp3.1/Settings.csproj.CoreCompileInputs.cache
+/home/kev/Desktop/NUTRITION_SERVICE/Settings/obj/debug/netcoreapp3.1/Settings.AssemblyInfoInputs.cache
+/home/kev/Desktop/NUTRITION_SERVICE/Settings/obj/debug/netcoreapp3.1/Settings.AssemblyInfo.cs
+/home/kev/Desktop/NUTRITION_SERVICE/Settings/obj/debug/netcoreapp3.1/Settings.dll
+/home/kev/Desktop/NUTRITION_SERVICE/Settings/obj/debug/netcoreapp3.1/Settings.pdb

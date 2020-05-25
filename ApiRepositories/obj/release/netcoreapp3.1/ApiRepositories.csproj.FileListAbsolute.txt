@@ -1,0 +1,12 @@
+/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/bin/release/netcoreapp3.1/ApiRepositories.deps.json
+/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/bin/release/netcoreapp3.1/ApiRepositories.dll
+/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/bin/release/netcoreapp3.1/ApiRepositories.pdb
+/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/bin/release/netcoreapp3.1/ApiModel.dll
+/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/bin/release/netcoreapp3.1/ApiModel.pdb
+/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/obj/release/netcoreapp3.1/ApiRepositories.csprojAssemblyReference.cache
+/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/obj/release/netcoreapp3.1/ApiRepositories.csproj.CoreCompileInputs.cache
+/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/obj/release/netcoreapp3.1/ApiRepositories.AssemblyInfoInputs.cache
+/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/obj/release/netcoreapp3.1/ApiRepositories.AssemblyInfo.cs
+/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/obj/release/netcoreapp3.1/ApiRepositories.csproj.CopyComplete
+/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/obj/release/netcoreapp3.1/ApiRepositories.dll
+/home/kev/Desktop/NUTRITION_SERVICE/ApiRepositories/obj/release/netcoreapp3.1/ApiRepositories.pdb
